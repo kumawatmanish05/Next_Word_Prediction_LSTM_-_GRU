@@ -1,5 +1,5 @@
 # 🧠 Next Word Prediction Using LSTM & GRU  
-A deep learning NLP project that predicts the next possible word in a sentence using **LSTM** and **GRU** architectures.
+A deep learning NLP project that predicts the next possible word in a sentence using **LSTM** and **GRU** architectures .....
 
 ---
 
