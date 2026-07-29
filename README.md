@@ -5,7 +5,7 @@ A deep learning NLP project that predicts the next possible word in a sentence u
 
 ## 🚀 Project Overview
 Next-word prediction is a core NLP task used in chatbots, auto-completion systems, writing assistants, and more.  
-This project builds and compares **LSTM** and **GRU** models for accurate text generation.
+This project builds and compares **LSTM** and **GRU** models for accurate text generation
 
 ---
 
