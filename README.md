@@ -47,10 +47,7 @@ Models generate the next word based on input text.
 
 ---
 
-## 🎥 **Project Demo Video**
 
-> ✨ **Paste your GitHub video link below this line**  
-GitHub will auto-embed the video player.
 
 
 
